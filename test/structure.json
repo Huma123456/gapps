@@ -1,0 +1,1598 @@
+{
+    "backendId": 3,
+    "child": [
+        {
+            "docid": "-1359265855899707144",
+            "backendDocid": "-1270172718445382127",
+            "docType": 45,
+            "backendId": 3,
+            "child": [
+                {
+                    "docid": "org.mozilla.firefox",
+                    "backendDocid": "org.mozilla.firefox",
+                    "docTyp   e": 1,
+                    "backendId": 3,
+                    "title": "Firefox: il browser veloce, sicuro e riservato",
+                    "creator": "Mozilla",
+                    "offer": [
+                        {
+                            "micros": "0",
+                            "currencyCode": "USD",
+                            "formattedAmount": "",
+                            "checkoutFlowRequired": "False",
+                            "offerType": 1,
+                            "message": "Acquista"
+                        }
+                    ],
+                    "availability": {
+                        "restriction": 1,
+                        "availableIfOwned": "True"
+                    },
+                    "image": [
+                        {
+                            "imageType": 2,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/BxTPvpBpAIwP1IYwJUjcIsN1KAE1jOpejRQcxVmjk3vF45zf9QoxW1HqekhIct9d2H_4",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 4,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/zqsuwFUBwKRcGOSBinKQCL3JgfvOW49vJphq0ZF32aDgfqmuDyl-fEpx4Lxm4pRr7A",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/P6pCR0UiFs0dStWHBsvOtGclwc3ZV9megup11-LopCJCJDj-GUUNtsNSg1TKNAvpxw",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/8ey3YIZtoiR9mUlGzR1-KFLb43wCIsPlMLkJ4dVDiw7UdKfbI_cDsHDCBwtezQeocSY",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/2TvOdX8zPlLaGzdnmKcKEw8S-JM9iNieHSZNk-qHYnbyFlUuj1TjR9mav6zoZOj979uk",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/kAL0W7uOxOtE7gvsTneakfgtKMR7tkAg4dxa3JhUiYsXUNliBXVCrXDmbYV7MtbEHX0",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/n7TIb-qRcHzWE3yjV40Xg9YNHKIgZGU5COnHPGxrXmMw7iZoX_zfO3gseFVatNn3ARk",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/ZLsi0cXU6ZmPyxSRjTS6o-A2NsCK2l6JfKN2GFHL38Le9lZfN7tgOAfp9S6n0YHjiQ",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/yEaGDvdiWC88qo9Y9x23mMN_ThxX008OdJs9ZRvEBgft5bQvXxW5QcbBe2mL7pKlkrw",
+                            "supportsFifeUrlOptions": "True"
+                        },
+                        {
+                            "imageType": 1,
+                            "dimension": {
+                                "width": 0,
+                                "height": 0
+                            },
+                            "imageUrl": "https://play-lh.googleusercontent.com/A2_qQBwpSh5pxmTK6FRtBFnzGs6sAyFAA1nKPu45LOAOqNxJK7qfaKMXHzxQez8Ih0I",
+                            "supportsFifeUrlOptions": "True"
+                        }
+                    ],
+                    "details": {
+                        "appDetails": {
+                            "versionCode": 2015776401,
+                            "versionString": "83.1.0",
+                            "installationSize": "63155074",
+                            "numDownloads": "Più di 100.000.000 di download",
+                            "packageName": "org.mozilla.firefox",
+                            "uploadDate": "18 nov 2020",
+                            "file": [
+                                {
+                                    "fileType": 0,
+                                    "versionCode": 2015776401,
+                                    "size": "63155074"
+                                }
+                            ],
+                            "unstable": "True",
+                            "dependencies": {
+                                "unknown2": "63155074",
+                                "dependency": [
+                                    {
+                                        "packageName": "com.google.android.gms",
+                                        "version": 12451000,
+                                        "unknown4": 1
+                                    }
+                                ],
+                                "unknown3": 29
+                            }
+                        }
+                    },
+                    "aggregateRating": {
+                        "type": 1,
+                        "starRating": 3.8847113,
+                        "ratingsCount": "3737230"
+                    },
+                    "relatedLinks": {
+                        "rated": {
+                            "label": "3 anni",
+                            "image": {
+                                "imageType": 6,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 487
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            "learnMoreHtmlLink": "Gli utenti interagiscono, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>}}",
+                            "detailsUrl": "details?doc=org.mozilla.firefox",
+                            "detailsReusable": "True",
+                            "unknownCategoryContainer": {},
+                            "descriptionShort": "Il browser ripensato per essere veloce, intuitivo, personalizzabile e sicuro.",
+                            "reviewQuestionsUrl": "reviewQuestions?doc=org.mozilla.firefox"
+                        }
+                    ],
+                    "containerMetadata": {
+                        "ordered": "False"
+                    },
+                    "relatedLinks": {
+                        "unknown1": {
+                            "unknown2": {}
+                        }
+                    },
+                    "unknownCategoryContainer": {}
+                }
+            },
+            
+            {
+                "docid": "-2843319800729383956",
+                "backendDocid": "-4562604827061481516",
+                "docType": 45,
+                "backendId": 3,
+                "title": "Ti potrebbero anche piacere",
+                "child": [
+                    {
+                        "docid": "org.mozilla.rocket",
+                        "backendDocid": "org.mozilla.rocket",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Firefox Lite — Fast and Lightweight Web Browser",
+                        "creator": "Mozilla",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/XCXQfaY8FkZidwyjwDbbWA1fvTt4CLrN6Xz9iSNQDDne9Wvt2uZidZUC9-fjyDpXLOA",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/G1PXN1ou15czZr44yXtVCUccszsBX5Zvm_f9Ax51Q_wduMbVgveHjkecMCzLc55sr6Y",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 20647,
+                                "versionString": "2.5.2(20647)",
+                                "installationSize": "6823862",
+                                "numDownloads": "Più di 5.000.000 di download",
+                                "packageName": "org.mozilla.rocket",
+                                "uploadDate": "28 set 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 20647,
+                                        "size": "6823862"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "6823862",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 28
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": "False",
+                                    "subscribed1": "False"
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.368409,
+                            "ratingsCount": "88860"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=org.mozilla.rocket",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Mozilla’s lightest and lightning-fast web browser with advanced private mode.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=org.mozilla.rocket"
+                    },
+                    {
+                        "docid": "org.mozilla.focus",
+                        "backendDocid": "org.mozilla.focus",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Firefox Focus: il browser per la privacy",
+                        "creator": "Mozilla",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "imageUrl": "https: //play-lh.googleusercontent.com/ao4KdobNMn6ovm2NfXGRYcD0mfeFc4v5BKQAia4-1hprbqnScMMnjEm4-uVPweE5MuMG",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "imageUrl": "https://play-lh.googleusercontent.com/uoqToM7l-x3lZNjFOzNkVxEilkKfEzGh9v8BB8b6pP1l9TltE4Sxd1XGJuiksjM4a1s",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 343371841,
+                                "versionString": "8.10.0",
+                                "installationSize": "53623779",
+                                "numDownloads": "Più di 5.000.000 di download",
+                                "packageName": "org.mozilla.focus",
+                                "uploadDate": "2 dic 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 343371841,
+                                        "size": "53623779"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "53623779",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 29
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": "False",
+                                    "subscribed1": "False",
+                                    "testingProgramEmail": "firefox-focus-public@mozilla.com"
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.0949326,
+                            "ratingsCount": "62357"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Gli utenti interagiscono, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=org.mozilla.focus",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Il browser veloce e attento alla privacy. Da Firefox, un browser di cui fidarsi.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=org.mozilla.focus"
+                    },
+                    {
+                        "docid": "com.ucturbo",
+                        "backendDocid": "com.ucturbo",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "UC Browser Turbo- Fast Download, Secure, Ad Block",
+                        "creator": "UCWeb Singapore Pte. Ltd.",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/j7sMU5uIvF_nItjs024fHkSZJ6RVm8zPqfk57Xd7GGx_ry6HRb7Rd1CY035ceMsXsDsm",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/IBI3NBJnotGmLpro8gWpFUyC_oc8LLC5nTD6QAWZ7WsCXxUwI0RuGnFkZgMqXzETNg",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 3,
+                                "imageUrl": "https://www.youtube.com/watch?v=jbQ2MeCEePk&feature=youtu.be"
+                            },
+                            {
+                                "imageType": 13,
+                                "imageUrl": "https://i.ytimg.com/vi/jbQ2MeCEePk/hqdefault.jpg",
+                                "supportsFifeUrlOptions": "False"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 181,
+                                "versionString": "1.10.3.900",
+                                "installationSize": "42486512",
+                                "numDownloads": "Più di 10.000.000 di download",
+                                "packageName": "com.ucturbo",
+                                "uploadDate": "3 ago 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 181,
+                                        "size": "42486512"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "42486512",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 28
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.3231144,
+                            "ratingsCount": "260249"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.ucturbo",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Scarica l,app UC Browser Turbo - Ottieni un browser veloce, sicuro e semplice.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.ucturbo"
+                    },
+                    {
+                        "docid": "com.android.chrome",
+                        "backendDocid": "com.android.chrome",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Google Chrome: veloce e sicuro",
+                        "creator": "Google LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "imageUrl": "https: //play-lh.googleusercontent.com/Tqq_hyHCiKjrgyeGZPn7P7FS1MiY-3bJ0f70CTJeemxI1LKxEHOxZBCxX_85ApnA04S3",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "imageUrl": "https://play-lh.googleusercontent.com/KwUBNPbMTk9jDXYS2AeX3illtVRTkrKVh5xR1Mg4WHd0CG2tV4mrh1z3kXi5z_warlk",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 424019820,
+                                "versionString": "86.0.4240.198",
+                                "installationSize": "92572290",
+                                "numDownloads": "Più di 5.000.000.000 di download",
+                                "packageName": "com.android.chrome",
+                                "uploadDate": "11 nov 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 424019820,
+                                        "size": "92572290"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "92572290",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 20367000,
+                                            "unknown4": 1
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 200501000
+                                        }
+                                    ],
+                                    "unknown3": 30
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.164703,
+                            "ratingsCount": "26653321"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.android.chrome",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Veloce, semplice e sicuro. Questo è il browser Google Chrome per Android.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.android.chrome"
+                    },
+                    {
+                        "docid": "com.UCMobile.intl",
+                        "backendDocid": "com.UCMobile.intl",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "UC Browser – Video Downloader, Watch Video Offline",
+                        "creator": "UCWeb Singapore Pte. Ltd.",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/GEyRw_tLo_xQtk4idTupqB0tm3wP3cqZLCJIYIP81mDd6k7iJdr3muSQld8Rd11Ltjg",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/A6gBT2J5MelcwE2ObQ7E4SiCirkixuDsMo2DNuTPGrbW1gMAVeKsz1hSHzE4tn4eSkw",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 50167,
+                                "versionString": "13.3.2.1303",
+                                "installationSize": "61482269",
+                                "numDownloads": "Più di 500.000.000 di download",
+                                "packageName": "com.UCMobile.intl",
+                                "uploadDate": "26 ott 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 50167,
+                                        "size": "61482269"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "containsAds": "Contiene annunci",
+                                "dependencies": {
+                                    "unknown2": "61482269",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 28
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": "False",
+                                    "subscribed1": "False",
+                                    "testingProgramEmail": "help@idc.ucweb.com"
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 3.921805,
+                            "ratingsCount": "21767205"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "12 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 366
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/yQChfa9XKlaXMIYTk8w8QwChjT8_SH-_2d2SS-kesw0TLQK1nxtw54bDcoZ09freZJgKrtg4f__is-31Vg",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Sesso<br/>Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.UCMobile.intl",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Latest live cricket streaming, score, news, fast videos downloader.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.UCMobile.intl"
+                    },
+                    {
+                        "docid": "com.uc.browser.en",
+                        "backendDocid": "com.uc.browser.en",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "UC Mini- Scarica video, film",
+                        "creator": "UCWeb Singapore Pte. Ltd.",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/NT4EW2EeqCRwVvRpXLMXxKMkambwVu9132Awtv0yS9i6YNtjKWI8K1DuQzzzgrYNm0SR",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/L5q1MlIcgSaNjBNRtTDzxsznmrtryhIS2fvN89E-AyO8p1XK1jzFrl4DW_qm016Wnw",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 255,
+                                "versionString": "12.12.9.1226",
+                                "installationSize": "48933827",
+                                "numDownloads": "Più di 100.000.000 di download",
+                                "packageName": "com.uc.browser.en",
+                                "uploadDate": "22 mag 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 255,
+                                        "size": "48933827"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "containsAds": "Contiene annunci",
+                                "dependencies": {
+                                    "unknown2": "48933827",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 28
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": "False",
+                                    "subscribed1": "False",
+                                    "testingProgramEmail": "maijunyuinuc@gmail.com"
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 3.9697247,
+                            "ratingsCount": "4611675"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "12 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 366
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/yQChfa9XKlaXMIYTk8w8QwChjT8_SH-_2d2SS-kesw0TLQK1nxtw54bDcoZ09freZJgKrtg4f__is-31Vg",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Sesso<br/>Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.uc.browser.en",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Una semplice app per scaricare video e musica da Internet. Veloce e sicuro!",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.uc.browser.en"
+                    },
+                    {
+                        "docid": "com.opera.mini.native",
+                        "backendDocid": "com.opera.mini.native",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Browser Opera Mini",
+                        "creator": "Opera",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/Ji8Wh3yshIc5iGthe5nDEz-hby5Hsg-JCkOnl7jbwX28A8vaP3_-fcPiTqnzagTMTtM",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/OMqej9WONG1l8CXOgFH58XV1cGRgTcJxeffDiEXmkjkfLPK-g680lkzXGhJ7VMTmII4",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 521054723,
+                                "versionString": "52.2.2254.54723",
+                                "installationSize": "14615110",
+                                "numDownloads": "Più di 500.000.000 di download",
+                                "packageName": "com.opera.mini.native",
+                                "uploadDate": "17 nov 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 521054723,
+                                        "size": "14615110"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "containsAds": "Contiene annunci",
+                                "dependencies": {
+                                    "unknown1": 2,
+                                    "unknown2": "14615110",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 29
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.341993,
+                            "ratingsCount": "7290358"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Acquisti digitali, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.opera.mini.native",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Browser con risparmio dati, blocco annunci, smart download e condivisione file.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.opera.mini.native"
+                    }
+                ],
+                "containerMetadata": {
+                    "browseUrl": "a",
+                    "nextPageUrl": "getCluster?enpt=CkGC0_-4AzsKMvqegZ0DLAgHEOHQ7JgHEOP51KcKEIrc6ukLEPCKtJoMEM_K0YEGEKn6_-wEENP8l84NEPTMrpHkLhAHGiSiCiEIEioCCAoyGQoTb3JnLm1vemlsbGEuZmlyZWZveBABGAM6DwoJCgdmaXJlZm94EAAYBA&n=20",
+                    "ordered": "False"
+                },
+                "relatedLinks": {
+                    "unknown1": {
+                        "unknown2": {
+                            "nextPageUrl": "searchMore?q=firefox&ecp=CiSiCiEIEioCCAoyGQoTb3JnLm1vemlsbGEuZmlyZWZveBABGAM6DwoJCgdmaXJlZm94EAAYBA%3D%3D"
+                        }
+                    }
+                },
+                "unknownCategoryContainer": {}
+            },
+            {
+                "docid": "-3924054349065899934",
+                "backendDocid": "3592367188939186127",
+                "docType": 45,
+                "backendId": 3,
+                "title": "App simili",
+                "child": [
+                    {
+                        "docid": "org.mozilla.firefox_beta",
+                        "backendDocid": "org.mozilla.firefox_beta",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Firefox per Android Beta",
+                        "creator": "Mozilla",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/lqZufdiGpji_51tSGcIKMqsv5J_Y0vMT25Diy6BdgklxQveotXgtrOk7qyf5R0ZkDkM",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 0,
+                                    "height": 0
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/3h9q6PWEpWJ9MwmkiYpQKyfWuTiiQHJZI3ntzzH8wLzmMJF1B_Z83xQAFNxgbPC54g",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 2015776761,
+                                "versionString": "84.0.0-beta.2",
+                                "installationSize": "66575705",
+                                "numDownloads": "Più di 10.000.000 di download",
+                                "packageName": "org.mozilla.firefox_beta",
+                                "uploadDate": "20 nov 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 2015776761,
+                                        "size": "66575705"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "66575705",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 29
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.108993,
+                            "ratingsCount": "218694"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Gli utenti interagiscono, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=org.mozilla.firefox_beta",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Scarica il browser gratuito Firefox Beta e facci conoscere la tua opinione.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=org.mozilla.firefox_beta"
+                    },
+                    {
+                        "docid": "com.brave.browser",
+                        "backendDocid": "com.brave.browser",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Brave Browser Web: browser web segreto y privato",
+                        "creator": "Brave Software",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/5XVqEH-9iI7IBduI2Zpm_kMMvNwPPsn6rce0IYhOUvQIhBjUfBanTTUIwM3OWdQ3n1A",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/I1foi2Irrv7tW9ee9kgP0wfnMzaVb6y17muvpKsFcUrKYsDlmCyWuTRh5m93KJZ24dY",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 411707520,
+                                "versionString": "1.17.75",
+                                "installationSize": "97870012",
+                                "numDownloads": "Più di 10.000.000 di download",
+                                "packageName": "com.brave.browser",
+                                "uploadDate": "3 dic 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 411707520,
+                                        "size": "97870012"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "containsAds": "Contiene annunci",
+                                "dependencies": {
+                                    "unknown2": "97870012",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 200501000
+                                        }
+                                    ],
+                                    "unknown3": 30
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.4982424,
+                            "ratingsCount": "290458"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.brave.browser",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Browser internet veloce, gratuito e sicuro con adblock e blocco pop-up.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.brave.browser"
+                    },
+                    {
+                        "docid": "com.duckduckgo.mobile.android",
+                        "backendDocid": "com.duckduckgo.mobile.android",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "DuckDuckGo Privacy Browser",
+                        "creator": "DuckDuckGo",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "imageUrl": "https://play-lh.googleusercontent.com/rkMGIbjUgwpq0D1nEn210kEUJOXW_C7_Ey8LbUkcL3usFuqt0fijCYAfBJ_v8ZNGPlk",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "imageUrl": "https://play-lh.googleusercontent.com/vvjvZn0l16nn8j1KfCAbHlBn7wm6la_55pfxGOW9Wg0ut6C51wKVb3DWJTqSJc-eCnA",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 57100,
+                                "versionString": "5.71.0",
+                                "installationSize": "13158395",
+                                "numDownloads": "Più di 10.000.000 di download",
+                                "packageName": "com.duckduckgo.mobile.android",
+                                "uploadDate": "3 dic 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 57100,
+                                        "size": "13158395"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "13158395",
+                                    "unknown3": 29
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": "False",
+                                    "subscribed1": "False",
+                                    "testingProgramEmail": "android@duckduckgo.com"
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.773341,
+                            "ratingsCount": "739313"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "<a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.duckduckgo.mobile.android",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Naviga sul Web privatamente, cerca in modo anonimo e sfuggi agli inseguitori di annunci.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.duckduckgo.mobile.android"
+                    },
+                    {
+                        "docid": "com.opera.browser",
+                        "backendDocid": "com.opera.browser",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Browser Opera con VPN gratuita",
+                        "creator": "Opera",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/HfCdcbUVxd1GAHZ8Ne2UKV724C7iJNYht-lIi2PdvJtT2MxCStfJoJu7Hd--lysZjeA",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/tkwW6uWRyX7Weduiqz8y26b-ks4NTQjtILg50srjSuN1c2UZj3mxpWD2cBme51gp6Q",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 1906117603,
+                                "versionString": "61.1.3076.56625",
+                                "installationSize": "78036924",
+                                "numDownloads": "Più di 100.000.000 di download",
+                                "packageName": "com.opera.browser",
+                                "uploadDate": "3 dic 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 1906117603,
+                                        "size": "78036924"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "containsAds": "Contiene annunci",
+                                "dependencies": {
+                                    "unknown1": 1,
+                                    "unknown2": "78036924",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 30
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.538738,
+                            "ratingsCount": "3494789"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Acquisti digitali, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.opera.browser",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Un browser veloce: VPN gratis, blocco annunci, lettore QR e news personalizzate",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.opera.browser"
+                    },
+                    {
+                        "docid": "com.microsoft.emmx",
+                        "backendDocid": "com.microsoft.emmx",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Microsoft Edge",
+                        "creator": "Microsoft Corporation",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "dimension": {
+                                    "width": 1024,
+                                    "height": 500
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/Gk9XG05JfIPSyeiB6Z41OKloN7sZXu60AoeQv8vcACjrYWFmoEg9sKMeKwxAURMogQ",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "dimension": {
+                                    "width": 512,
+                                    "height": 512
+                                },
+                                "imageUrl": "https://play-lh.googleusercontent.com/VYvJqGnrQiKkbbyLyMeiL-GM3go4tBIA64uVEGQazLXD4p_M3F45kHyt42o_6d5VXA",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 5104002,
+                                "versionString": "45.11.2.5104",
+                                "installationSize": "90730019",
+                                "numDownloads": "Più di 10.000.000 di download",
+                                "packageName": "com.microsoft.emmx",
+                                "uploadDate": "30 nov 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 5104002,
+                                        "size": "90730019"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "90730019",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 12451000,
+                                            "unknown4": 1
+                                        }
+                                    ],
+                                    "unknown3": 29
+                                },
+                                "testingProgramInfo": {
+                                    "subscribed": "False",
+                                    "subscribed1": "False"
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.4955254,
+                            "ratingsCount": "266929"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Gli utenti interagiscono, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.microsoft.emmx",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Prestazioni di livello superiore, più privacy, più produttività, più valore. ",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.microsoft.emmx"
+                    },
+                    {
+                        "docid": "com.android.chrome",
+                        "backendDocid": "com.android.chrome",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Google Chrome: veloce e sicuro",
+                        "creator": "Google LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "imageUrl": "https://play-lh.googleusercontent.com/Tqq_hyHCiKjrgyeGZPn7P7FS1MiY-3bJ0f70CTJeemxI1LKxEHOxZBCxX_85ApnA04S3",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "imageUrl": "https://play-lh.googleusercontent.com/KwUBNPbMTk9jDXYS2AeX3illtVRTkrKVh5xR1Mg4WHd0CG2tV4mrh1z3kXi5z_warlk",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 424019820,
+                                "versionString": "86.0.4240.198",
+                                "installationSize": "92572290",
+                                "numDownloads": "Più di 5.000.000.000 di download",
+                                "packageName": "com.android.chrome",
+                                "uploadDate": "11 nov 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 424019820,
+                                        "size": "92572290"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "92572290",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 20367000,
+                                            "unknown4": 1
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 200501000
+                                        }
+                                    ],
+                                    "unknown3": 30
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.1647015,
+                            "ratingsCount": "26653117"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.android.chrome",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "Veloce, semplice e sicuro. Questo è il browser Google Chrome per Android.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.android.chrome"
+                    },
+                    {
+                        "docid": "com.chrome.beta",
+                        "backendDocid": "com.chrome.beta",
+                        "docType": 1,
+                        "backendId": 3,
+                        "title": "Chrome Beta",
+                        "creator": "Google LLC",
+                        "offer": [
+                            {
+                                "micros": "0",
+                                "currencyCode": "USD",
+                                "formattedAmount": "",
+                                "checkoutFlowRequired": "False",
+                                "offerType": 1,
+                                "message": "Acquista"
+                            }
+                        ],
+                        "availability": {
+                            "restriction": 1,
+                            "availableIfOwned": "True"
+                        },
+                        "image": [
+                            {
+                                "imageType": 2,
+                                "imageUrl": "https://play-lh.googleusercontent.com/ow-JvCmPZcmyN6pp_2ZgeicUpMe8ipDMq9pbfwurWpyJCAL6beTDVA_SpAY--raMIGs",
+                                "supportsFifeUrlOptions": "True"
+                            },
+                            {
+                                "imageType": 4,
+                                "imageUrl": "https://play-lh.googleusercontent.com/XZB1L7nFZVsMyBGbV1qmf139ijkQLdeyQH-Bh5P9D2mU3vY2oEfoP2mwz0hItjxyxZo",
+                                "supportsFifeUrlOptions": "True"
+                            }
+                        ],
+                        "details": {
+                            "appDetails": {
+                                "versionCode": 432402920,
+                                "versionString": "88.0.4324.29",
+                                "installationSize": "98712526",
+                                "numDownloads": "Più di 10.000.000 di download",
+                                "packageName": "com.chrome.beta",
+                                "uploadDate": "3 dic 2020",
+                                "file": [
+                                    {
+                                        "fileType": 0,
+                                        "versionCode": 432402920,
+                                        "size": "98712526"
+                                    }
+                                ],
+                                "unstable": "True",
+                                "dependencies": {
+                                    "unknown2": "98712526",
+                                    "dependency": [
+                                        {
+                                            "packageName": "com.google.android.gms",
+                                            "version": 204013000,
+                                            "unknown4": 1
+                                        },
+                                        {
+                                            "packageName": "com.google.ar.core",
+                                            "version": 200501000
+                                        }
+                                    ],
+                                    "unknown3": 30
+                                }
+                            }
+                        },
+                        "aggregateRating": {
+                            "type": 1,
+                            "starRating": 4.2514343,
+                            "ratingsCount": "322523"
+                        },
+                        "relatedLinks": {
+                            "rated": {
+                                "label": "3 anni",
+                                "image": {
+                                    "imageType": 6,
+                                    "dimension": {
+                                        "width": 512,
+                                        "height": 487
+                                    },
+                                    "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                                    "supportsFifeUrlOptions": "True"
+                                },
+                                "learnMoreHtmlLink": "Gli utenti interagiscono, Condivide la posizione, Acquisti digitali, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+                            }
+                        },
+                        "detailsUrl": "details?doc=com.chrome.beta",
+                        "detailsReusable": "True",
+                        "unknownCategoryContainer": {},
+                        "descriptionShort": "La velocità e la semplicità di Chrome, ora sul vostro dispositivo Android in versione beta.",
+                        "reviewQuestionsUrl": "reviewQuestions?doc=com.chrome.beta"
+                    }
+                ],
+                "containerMetadata": {
+                    "browseUrl": "a",
+                    "nextPageUrl": "getCluster?enpt=CkGC0_-4AzsKMvqegZ0DLAgHENXU8pgJEPCKtJoMEKyd56QPEJqo4KMIEK_8_NMMENKxwLoKEJynxeENEPPMrpHkLhAHGiSiCiEIESoCCAoyGQoTb3JnLm1vemlsbGEuZmlyZWZveBABGAM6DwoJCgdmaXJlZm94EAAYBA&n=20",
+                    "ordered": "False"
+                },
+                "relatedLinks": {
+                    "unknown1": {
+                        "unknown2": {
+                            "nextPageUrl": "searchMore?q=firefox&ecp=CiSiCiEIESoCCAoyGQoTb3JnLm1vemlsbGEuZmlyZWZveBABGAM6DwoJCgdmaXJlZm94EAAYBA%3D%3D"
+                        }
+                    }
+                },
+                "unknownCategoryContainer": {}
+            }
+        ],
+        "containerMetadata": {
+            "nextPageUrl": "searchList?q=firefox&o=0&c=3&ksm=1&ctntkn=CgiK38WpAwIIBBAD",
+            "ordered": "True"
+        },
+        "unknownCategoryContainer": {}
+    }
+]
+}

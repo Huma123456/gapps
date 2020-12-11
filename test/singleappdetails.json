@@ -1,0 +1,163 @@
+{
+    "docid": "org.mozilla.focus",
+    "backendDocid": "org.mozilla.focus",
+    "docType": 1,
+    "backendId": 3,
+    "title": "Firefox Focus: il browser per la privacy",
+    "creator": "Mozilla",
+    "descriptionHtml": "Naviga come se nessuno ti stesse guardando. Il nuovo Firefox Focus blocca automaticamente gli elementi traccianti più diffusi durante la navigazione, dall’istante in cui lo apri a quando lo chiudi. Cancella con facilità cronologia, password e cookie, liberandoti finalmente da elementi traccianti noiosi come gli annunci pubblicitari indesiderati.<br><br>La cosiddetta “navigazione anonima” dei comuni browser è incompleta e difficile da utilizzare. Focus porta la privacy a un nuovo livello: gratuito, sempre attivo e sempre dalla tua parte, perché è sviluppato da Mozilla, l&#39;organizzazione senza fini di lucro che salvaguarda i diritti degli utenti sul Web.<br><br>PRIVACY IN AUTOMATICO<br>• Blocca gli elementi traccianti più diffusi sul Web senza bisogno di impostare alcun parametro<br>• Elimina facilmente la cronologia: niente password, niente cookie, niente elementi traccianti<br><br>NAVIGAZIONE PIÙ VELOCE<br>• Senza elementi traccianti e annunci pubblicitari ad appesantirle, le pagine web si caricano più velocemente<br><br>SVILUPPATO DA MOZILLA<br>• Ogni utente dovrebbe avere il pieno controllo della propria esperienza online e Mozilla si batte per questo diritto dal 1998.",
+    "offer": [
+        {
+            "micros": "0",
+            "currencyCode": "USD",
+            "formattedAmount": "",
+            "checkoutFlowRequired": "False",
+            "offerType": 1,
+            "message": "Acquista"
+        }
+    ],
+    "availability": {
+        "restriction": 1
+    },
+    "image": [
+        {
+            "imageType": 2,
+            "imageUrl": "https://play-lh.googleusercontent.com/ao4KdobNMn6ovm2NfXGRYcD0mfeFc4v5BKQAia4-1hprbqnScMMnjEm4-uVPweE5MuMG", "supportsFifeUrlOptions": "True"
+        },
+        {
+            "imageType": 4,
+            "imageUrl": "https://play-lh.googleusercontent.com/uoqToM7l-x3lZNjFOzNkVxEilkKfEzGh9v8BB8b6pP1l9TltE4Sxd1XGJuiksjM4a1s", "supportsFifeUrlOptions": "True"
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/m1J_4VRfCXKKV-i1GyB1bA5wDOPRpyxir4p00ksVukKUUMOH29GqYhe20sUe0oc", "supportsFifeUrlOptions": "True"
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/ImGEB2-UcKh6E8ciFsQZkFS4elKQCMACi_10RCmmMoiTse1EZizV_xaqNcqfCdlWdtw", "supportsFifeUrlOptions": "True"
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/k0JqQPaKGhqNF-Q6brNoBXK6war7yt6N9DlAme2p3ii13J3sp3rSx4M9EKXhmEnsMg8c", "supportsFifeUrlOptions": "True"
+        },
+        {
+            "imageType": 1,
+            "imageUrl": "https://play-lh.googleusercontent.com/wKWfFVfwnGEfSuq6PNbrPZgCAetwZ_GjwR-opvhcMBxXQbx3CBo4r76crkSKo2wUWjg", "supportsFifeUrlOptions": "True"
+        }
+    ],
+    "details": {
+        "appDetails": {
+            "developerName": "Mozilla",
+            "versionCode": 343371841,
+            "versionString": "8.10.0",
+            "installationSize": "53623779",
+            "permission": [
+                "android.permission.ACCESS_NETWORK_STATE",
+                "android.permission.FOREGROUND_SERVICE",
+                "android.permission.INTERNET",
+                "android.permission.MODIFY_AUDIO_SETTINGS",
+                "android.permission.READ_EXTERNAL_STORAGE",
+                "android.permission.READ_PHONE_STATE",
+                "android.permission.RECEIVE_BOOT_COMPLETED",
+                "android.permission.REQUEST_INSTALL_PACKAGES",
+                "android.permission.USE_FINGERPRINT",
+                "android.permission.WAKE_LOCK",
+                "android.permission.WRITE_EXTERNAL_STORAGE",
+                "com.android.launcher.permission.INSTALL_SHORTCUT",
+                "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+                "com.samsung.android.providers.context.permission.WRITE_USE_APP_FEATURE_SURVEY"
+            ],
+            "developerEmail": "android-marketplace-notices@mozilla.com",
+            "developerWebsite": "http://www.mozilla.org/",
+            "numDownloads": "Più di 5.000.000 di download",
+            "packageName": "org.mozilla.focus",
+            "recentChangesHtml": "Updated GeckoView engine to latest release",
+            "uploadDate": "2 dic 2020",
+            "file": [
+                {
+                    "fileType": 0,
+                    "versionCode": 343371841,
+                    "size": "53623779"
+                }
+            ],
+            "unstable": "True",
+            "dependencies": {
+                "unknown2": "53623779",
+                "dependency": [
+                    {
+                        "packageName": "com.google.android.gms",
+                        "version": 12451000,
+                        "unknown4": 1
+                    }
+                ],
+                "unknown3": 29
+            },
+            "testingProgramInfo": {
+                "subscribed": "False",
+                "subscribed1": "False",
+                "testingProgramEmail": "firefox-focus-public@mozilla.com"
+            }
+        }
+    },
+    "aggregateRating": {
+        "type": 2,
+        "starRating": 4.0930157,
+        "ratingsCount": "62372",
+        "oneStarRatings": "7516",
+        "twoStarRatings": "2811",
+        "threeStarRatings": "4435",
+        "fourStarRatings": "9200",
+        "fiveStarRatings": "38408",
+        "commentCount": "25516"
+    },
+    "relatedLinks": {
+        "privacyPolicyUrl": "https://www.mozilla.org/en-US/privacy/firefox-focus/",
+        "youMightAlsoLike": {
+            "label": "Ti potrebbero anche piacere",
+            "url1": "getStream?ecp=CiKiCh8IEioCCAkyFwoRb3JnLm1vemlsbGEuZm9jdXMQARgD&n=21&ds=1",
+            "url2": "getBrowseStream?ecp=CiKiCh8IEioCCAkyFwoRb3JnLm1vemlsbGEuZm9jdXMQARgD&n=21"
+        },
+        "rated": {
+            "label": "3 anni",
+            "image": {
+                "imageType": 6,
+                "dimension": {
+                    "width": 512,
+                    "height": 487
+                },
+                "imageUrl": "https://play-lh.googleusercontent.com/EbEX3AN4FC4pu3lsElAHCiksluOVU8OgkgtWC43-wmm_aHVq2D65FmEM97bPexilUAvlAY5_4ARH8Tb3RxQ",
+                "supportsFifeUrlOptions": "True"
+            },
+            "learnMoreHtmlLink": "Gli utenti interagiscono, Internet senza limitazioni<br/><a href='https://support.google.com/googleplay?p=appgame_ratings'>Ulteriori informazioni</a>"
+        }
+    },
+    "detailsUrl": "details?doc=org.mozilla.focus",
+    "shareUrl": "https://play.google.com/store/apps/details?id=org.mozilla.focus",
+    "reviewsUrl": "rev?doc=org.mozilla.focus&n=20&o=0",
+    "detailsReusable": "True",
+    "unknownCategoryContainer": {},
+    "unknown25": {
+        "item": [
+            {
+                "label": "Offerto da",
+                "container": {
+                    "value": "Mozilla"
+                }
+            },
+            {
+                "label": "E-mail sviluppatore",
+                "container": {
+                    "value": "android-marketplace-notices@mozilla.com"
+                }
+            },
+            {
+                "label": "Data di uscita",
+                "container": {
+                    "value": "19 giu 2017"
+                }
+            }
+        ]
+    },
+    "descriptionShort": "Il browser veloce e attento alla privacy. Da Firefox, un browser di cui fidarsi.",
+    "reviewQuestionsUrl": "reviewQuestions?doc=org.mozilla.focus"
+}

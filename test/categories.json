@@ -1,0 +1,525 @@
+{
+    "name": "Affari",
+    "dataUrl": "homeV2?cat=BUSINESS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "BUSINESS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/SCfK8ZjVzbWxwa2dCCt-T6rm3GiFUTRQQZEM-iRJcdPYb3BpxQD6v10gEyqCoG1TMjkrYIDqtkgNJat9urY",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Arte e design",
+    "dataUrl": "homeV2?cat=ART_AND_DESIGN&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "ART_AND_DESIGN"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/cej-b-CD_z-dPD0RyuoU-ELrI95azaNijPtsTSbc2WcU1-0tflXw8BcOCN2kxVQphlQX-qdA72tNd11Xxg",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Auto e veicoli",
+    "dataUrl": "homeV2?cat=AUTO_AND_VEHICLES&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "AUTO_AND_VEHICLES"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/Rqa_W-ZOkUHYHMJrlNiTQn94jragc39KOFZD5xVh9RJxlr01ZLtXKVFT7Coj5OQQQdrqsFsFUKyA2Ge8Jog",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Bellezza",
+    "dataUrl": "homeV2?cat=BEAUTY&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "BEAUTY"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/1D872YmakcC4gBLy9Acedu4VWD72118aqHUhN-YQgMQ56-GsgdqmfhaANiiO-qB56WGHT6ehfNcxh36-aw",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Casa e arredamento",
+    "dataUrl": "homeV2?cat=HOUSE_AND_HOME&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "HOUSE_AND_HOME"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/zqM3FN5CDIqPx1MsnkdNuYs5Pj6VQhgdqtclZ0lkZc_5YbDDuoJ7pN-XWGg4McxM-6Usrlg4iX2lR6OHUg",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Comunicazione",
+    "dataUrl": "homeV2?cat=COMMUNICATION&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "COMMUNICATION"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/sGYLm6fJoR6vRBGqq30hpLRfvPCZ_1gbg9oCapS99o5li2QHw7O0BI8EK-rTmggMoQx9jl0rOnqub5LO",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Eventi",
+    "dataUrl": "homeV2?cat=EVENTS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "EVENTS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/ALM722b9eZcq7UlyfG50q-BeVsndQDhGGfC0Sql0lbdoTwAgWXg4plOzQunx7lVMAzqdCADQqm-WML1PGKI",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Famiglia",
+    "dataUrl": "homeV2?cat=FAMILY&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "FAMILY"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/_pvqTXjX4O52PKJ6ZxbwDvpPw2Y45A7nwSlWxx2-g8gKyPg77dRRZyelSb2dr15Hdj8v5A5Q97Qi53N-ZA",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Finanza",
+    "dataUrl": "homeV2?cat=FINANCE&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "FINANCE"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/8WI3NrFyj0q6uCGpzJkoMjBcl_upvYPrw5alffOP_QxyMl_Vi5DSrcDdIZc2MC9pQki1aQG0dypcUy5d",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Fotografia",
+    "dataUrl": "homeV2?cat=PHOTOGRAPHY&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "PHOTOGRAPHY"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/M5OM33meLyhrljjvQNeNzgP7DY5p-fKUEINsJNnlqbxPpZ9yrLHTqXdOK86rptoNcts3DctQ-l_ttqxXRQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Fumetti",
+    "dataUrl": "homeV2?cat=COMICS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "COMICS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/U0nvLKrLUPwHBErphFYIaAOI3PUPBl9OAG0tq_ddSCrp5OE6Z3V4YY9gTixWYlkDhms_1H6d4BnnbYHMZw",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Genitori",
+    "dataUrl": "homeV2?cat=PARENTING&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "PARENTING"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/klbX5gmIYhGzPLhFZp-Odqci6HEN_yXN5JuHsgr1WIO9aZAgB6Fsy42tA0tR9FtIdA2pIc_K4ylQpCc3dc8",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Giochi",
+    "dataUrl": "homeV2?cat=GAME&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "GAME"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/9B4h3oV3V976QI22pHX5CAZmpOjhtjxmJ85x234iVasadqm_lQjL4rebkIoHpDvv_qM09sXlH9UVyHvhmQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Incontri",
+    "dataUrl": "homeV2?cat=DATING&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "DATING"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/xFNi7MxfsLnh_bWB--ec07q_WbemXv7LzOL00KZj-l1AANRVRTUpAHBIfJlzzv-WRxZ0AXpoUgt-VKp8LQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Intrattenimento",
+    "dataUrl": "homeV2?cat=ENTERTAINMENT&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "ENTERTAINMENT"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/ziBqleKEKzpOQNYtAG846hVV5pEv04eZjRfj28K4v78UWAEJtfD8e7guVRC6lcWv4FCW3GXoY_Z5PCynig",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Istruzione",
+    "dataUrl": "homeV2?cat=EDUCATION&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "EDUCATION"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/tBka6Uf-iBt75hd7vBNdVR--5yRjb6p5N8iAtasbEXDDqY3xQ4SJlAaA3p0QvxL1xI27RMbCmhgl9HD_gW8",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Librerie e demo",
+    "dataUrl": "homeV2?cat=LIBRARIES_AND_DEMO&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "LIBRARIES_AND_DEMO"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/U5GNDBou44xA9UVuRyJG9-rRAzQoheQXpHn9tbMSipYL6mFReryhYE3I4yBD9EPrRr-faCe_txqPMweA4A",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Libri e consultazione",
+    "dataUrl": "homeV2?cat=BOOKS_AND_REFERENCE&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "BOOKS_AND_REFERENCE"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/v3-TOMGhyZzrsl-uoQyo4sLNPgJ67Twt27FLgtB6VLHuwqIWgKo4po184Qjt9A0Py5j9bttSG98iJ_F0",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Lifestyle",
+    "dataUrl": "homeV2?cat=LIFESTYLE&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "LIFESTYLE"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/CwsdNqHvdB4QImdDbTsTYeDe7I777eZIeWQuPIcRzZZs7mJ2ULhtz4TzuCARlFl6BHgX-6iek2i2uz989g",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Mangiare e bere",
+    "dataUrl": "homeV2?cat=FOOD_AND_DRINK&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "FOOD_AND_DRINK"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/eDjRr0HzhhmX7wlfDAI32WL4jXumReQbL-6TMG1VhKqUFQPCbo1eTAdUUwxovBrcaYLQ8qPPdyaKfojjMQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Mappe e navigatori",
+    "dataUrl": "homeV2?cat=MAPS_AND_NAVIGATION&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "MAPS_AND_NAVIGATION"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/JQ0EL6WsHKwT7UMpi6vhTJIZmKKlHSqH-IrLRqF_UjZ_qFiGAticOpP2HUl_meEJcHWU1t8vHD7RrOXtubc",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Medicina",
+    "dataUrl": "homeV2?cat=MEDICAL&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "MEDICAL"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/kvHEaBDIXUOFB3XqBA3LSiNW8ZDuWuy0YmcVQ1DlPeOpqK90Fms6a8wEmKCLQBgdYZ6l-otxDrxwt8nFyA",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Meteo",
+    "dataUrl": "homeV2?cat=WEATHER&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "WEATHER"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/9FHO-bt_FpxfBXmwJGxFbLKlFTYEIV0bA7ITuv1SuDJBE8kBtVce5lOGo3yi6jMVxfmsOVySJDpCafNC8yQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Musica e audio",
+    "dataUrl": "homeV2?cat=MUSIC_AND_AUDIO&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "MUSIC_AND_AUDIO"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/G6wC_CV5AneItEj_nFqXu92W8yMsSZbVoAut7mE4U4MXJn4SdUZbXyIpIabQayezV-K51JTQsSxkpb5icQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Notizie e riviste",
+    "dataUrl": "homeV2?cat=NEWS_AND_MAGAZINES&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "NEWS_AND_MAGAZINES"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/WjMRQPqrBuDOksfVNYiQrkCYZgx9mRhlc1stGDlAobRqIh_n2bWoO4ua064QvRrtkZFQe8JM8KgjnHhN",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Personalizzazione",
+    "dataUrl": "homeV2?cat=PERSONALIZATION&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "PERSONALIZATION"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/pIHdtRfSHND22vuWIvEshrtsOMvr4FEDQzV1F9VLN_Vl4w9jXg7Vo3lXzVU0uiPxOqUEvz7Zb7bium8C",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Produttività",
+    "dataUrl": "homeV2?cat=PRODUCTIVITY&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "PRODUCTIVITY"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/nhy8Ec0Pv0biqgxzmiIZZ3jT_LNlXsL_azybz8E_cLxNdWUtu6DSIkFFA0Bx3bi1QUB5sJMtpvRgi-W0Vw",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Salute e fitness",
+    "dataUrl": "homeV2?cat=HEALTH_AND_FITNESS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "HEALTH_AND_FITNESS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/MzmBb-YTfRQtUow1pHy-7R34h_MxxXFN5fELAkMIvyEOeFGZL2YfrVjfP1P48D7T-zxmeKBMKUnS-dqB",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Shopping",
+    "dataUrl": "homeV2?cat=SHOPPING&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "SHOPPING"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/1FP_DITbz7A8wzs0CpMA6hNErXNU368YFXMcE9cQrx2YaJM-dYSuiAUielH-oEO60E4aDPDbOO4t2SyQ",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Social",
+    "dataUrl": "homeV2?cat=SOCIAL&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "SOCIAL"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/4inXw3fYo25CnVX5myEuABIDXrlXgnjrMZSlPUUka65n3-mkzyWQuzFyQvZySHpet7AGB8rjJg922rqgsA",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Sport",
+    "dataUrl": "homeV2?cat=SPORTS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "SPORTS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/e9QqqK6nfZfYWvQl-_ug3kgoBItvUz_AXV2LDz2uIgLgfgqHfMF9F2WKBUJ7UFRdIDxZEcX9a9B9-_FS",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Strumenti",
+    "dataUrl": "homeV2?cat=TOOLS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "TOOLS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/D_77AFGtEzwejgYsHpmJEVR0HJ4g7-JptlFQinY71psWYxroFUKEXaiVhR35TPXFLpQfbZGFSEO0xma4",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Strumenti video",
+    "dataUrl": "homeV2?cat=VIDEO_PLAYERS&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "VIDEO_PLAYERS"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/QdkVpC_qyotjshF3rOGGwLkfeONEN3SwPhXzN22VEmoZjl67JjAz8XWvByzjH1I6KzJuMfYP34kcavoh",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Viaggi e info locali",
+    "dataUrl": "homeV2?cat=TRAVEL_AND_LOCAL&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "TRAVEL_AND_LOCAL"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/WSW-IwiVsqsDKD4nEPMzS4U56Z4uFeVOebiDtqrr8CnFG5WcUMdmFjVe8behFYdVVO1Ez1g-eyWaFtSf",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
+{
+    "name": "Wear OS by Google",
+    "dataUrl": "homeV2?cat=ANDROID_WEAR&c=3",
+    "unknownCategoryContainer": {
+        "categoryIdContainer": {
+            "categoryId": "ANDROID_WEAR"
+        }
+    },
+    "icon": {
+        "imageType": 5,
+        "imageUrl": "https://lh3.ggpht.com/9EB5MWzrHwUoWrXg98uz2LjpvKeeArnpyDe9_vQK6z0ZdmNi-SZrCgRqAwPMsZEeNCRv_uyLbijEWnJX3P8",
+        "supportsFifeUrlOptions": "True",
+        "color": "#FF679E37"
+    }
+}
