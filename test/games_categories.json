@@ -1,0 +1,278 @@
+{
+    "contentsUrl": "list?c=3&cat=GAME",
+    "promoUrl": "getHomeStream?c=3&cat=GAME",
+    "category": [
+        {
+            "name": "Action",
+            "dataUrl": "homeV2?cat=GAME_ACTION&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_ACTION"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/nBolgfacOtUEgcD-SpE-Y_knIh0lTtZZzqrMNRFkWgly2SFaTdBBJRq7e_7AwaKOrb5_IVMb2JAv-mJLbg",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Adventure",
+            "dataUrl": "homeV2?cat=GAME_ADVENTURE&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_ADVENTURE"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/jgPTVa8BUpLGx3ozHlgeYIuWz9mZs-nuZiOq3_OMJ1sZr_JL9_RP7X-hPrdF-d5yxoHmqL9MtZEJm9uWSQ",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Arcade",
+            "dataUrl": "homeV2?cat=GAME_ARCADE&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_ARCADE"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/ozie2D8xzXVToYl04qwIsncKIJlVJIETjJZRXqgt4IozvcdX9425vhRATyRLHJLUBjFTKfQCjgytGiH8lNA",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Board",
+            "dataUrl": "homeV2?cat=GAME_BOARD&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_BOARD"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/9mxS2vc3lYlt4x9sK11yZNN7WCAQGz6VGfe11uah945cYLIZiII93oI_N9B6XzgOgXKXibnDSVYfvoLT9Q",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Card",
+            "dataUrl": "homeV2?cat=GAME_CARD&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_CARD"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/OdLFON0najMcEJPTyX0RPHBlmKDrO1Sl7Qe4JAn6CYd7xovF-PGThv1--cLg1it6OShYP1VW0K6M9711Gw",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Casino",
+            "dataUrl": "homeV2?cat=GAME_CASINO&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_CASINO"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/tXc9pylhzqSu0Rej5qjSzeT9YBuOD1XtFSU8ZKS1DR-GOw6_HqZyU3wBLwdr4ALaeMzRlRQFfXuITQpe",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Casual",
+            "dataUrl": "homeV2?cat=GAME_CASUAL&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_CASUAL"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/2yboNaw8Y4tlKpeRDci8qz2sD9yywT1G9BBX_OCuePNaV5a_WWcaQhT0564gkAFtCgC876XyV8q6l8ybuw",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Educational",
+            "dataUrl": "homeV2?cat=GAME_EDUCATIONAL&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_EDUCATIONAL"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/T4Agvr2kmKihM2pr4GiQzjWFJQtsKgi-tTByjRLM2E8KZr423JTfjxG8QMSqDhOC_MJR99rDX8gtfPFtWA",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Music",
+            "dataUrl": "homeV2?cat=GAME_MUSIC&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_MUSIC"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/cJke_Xxuc0PDPzf5n0TGb4_jsEuZQvVvVK1ErQNRbYrZOOyZD4eN97Si0pAWfouGOY3u2HM8gBGfvggI",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Puzzle",
+            "dataUrl": "homeV2?cat=GAME_PUZZLE&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_PUZZLE"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/XTS6CZo9xWXr8NU10oCst5ICTabD1zlJpj1W4SNimSqHLx5AK9j7MJFDQfi0O3NUzrTXwkCX5HZZx8JYVQ",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Racing",
+            "dataUrl": "homeV2?cat=GAME_RACING&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_RACING"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/HFR-GkK4THkznPCnWncD21TRoiV16vMT42YetUK7UvBjXs2JjkpVRYm4IEiZjQRLlgZ84ZTgus-87J47lg",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Role Playing",
+            "dataUrl": "homeV2?cat=GAME_ROLE_PLAYING&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_ROLE_PLAYING"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/AS_0kuggvLlMaFoT29skHwXM04sARA0bNZDHqUFkqILR822gKiwpKMFVv8bfGmgMmH2GK0OX7GelCGdAEg",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Simulation",
+            "dataUrl": "homeV2?cat=GAME_SIMULATION&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_SIMULATION"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/_LdHSM-LUx6x2rzht37Zu2YEdHPfZ8MVcn_lZoN26cGwKmGsL-vZy1f1MsRimXU47NMsiP6uwrPIkeo_Uw",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Sports",
+            "dataUrl": "homeV2?cat=GAME_SPORTS&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_SPORTS"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/k4nI1STlxTBgEuwyMNapY9U_vBh38h_nIvYtLVVIaT9PtgOIXfRZKccsGa2wK8gVebKX8S7xG72Bu-8kmmY",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Strategy",
+            "dataUrl": "homeV2?cat=GAME_STRATEGY&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_STRATEGY"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/s1N91P52KsCJEM1Rtugh6_7Ay2tDbNpQxT98ezmwcx3YE-u1BiW0BglogexwTJFP545pawCIfv7HQ_2F4A",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Trivia",
+            "dataUrl": "homeV2?cat=GAME_TRIVIA&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_TRIVIA"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/zlOchMhBWi5T1DWGpTWf4_ZzzNWDKPONpUN4IReBX3aR4O5i3H7Yl-QZctueXljXnh9CylttPN1WeuY5IA",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        },
+        {
+            "name": "Word",
+            "dataUrl": "homeV2?cat=GAME_WORD&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME_WORD"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/Bw2rRkYpoldIc3Dyhq3JhT9sJQ78Yae2vndgbdbhGAXMz9x7vCIZcv9NqZXF9BdM-vfsxi80gDvwKWwZjA",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        }
+    ],
+    "breadcrumb": [
+        {
+            "name": "Games",
+            "dataUrl": "homeV2?cat=GAME&c=3",
+            "unknownCategoryContainer": {
+                "categoryIdContainer": {
+                    "categoryId": "GAME"
+                }
+            },
+            "icon": {
+                "imageType": 5,
+                "imageUrl": "https://lh3.ggpht.com/9B4h3oV3V976QI22pHX5CAZmpOjhtjxmJ85x234iVasadqm_lQjL4rebkIoHpDvv_qM09sXlH9UVyHvhmQ",
+                "supportsFifeUrlOptions": "True",
+                "color": "#FF679E37"
+            }
+        }
+    ]
+}

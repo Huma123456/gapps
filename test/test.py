@@ -85,7 +85,7 @@ if bulk[1] is not None:
 
 print("\nResult from bulkDetails for {}\n".format(testApps[0]))
 print(bulk[0]["docid"])
-
+'''
 testApps = ["org.mozilla.rocket", "com.non.existing.app"]
 
 # DETAILS
@@ -108,17 +108,29 @@ x="one"
 print("ImageUrl")
 cnt=1
 img=list()
+imgcnvt=list()
 for x in details['image']:
-    img.append(x['imageUrl'])
      #converts the number of image into words 
     inttoword=num2words(cnt)
+    # Directory 
+    directory = details['docid']
+    # Parent Directory path 
+    parent_dir = '/mnt/c/xampp/htdocs/appimages/'
+    # Path 
+    path = os.path.join(parent_dir, directory) 
+    # Create the directory if not exists
+    if os.path.isfile(path)==True:   
+        os.mkdir(path) 
     #adds the extension
-    exten=inttoword+'.png'
+    exten = path + "/" + inttoword + '.png'
     #downloads it using the two things names and links for each image
     urllib.request.urlretrieve(x['imageUrl'],exten)
     cnt=cnt+1
-print(img)
+    img.append(x['imageUrl'])
+    imgcnvt.append(exten)
+print(img, imgcnvt)
 
+'''
 #make separate table for rating
 print("Aggregate rating")
 for y in details['aggregateRating'].values():
@@ -162,16 +174,69 @@ for doc in browseCat:
         for app in child["child"]:
             print(app)
             print("\t\tapp: {}".format(app["docid"]))
-'''
+
+
+#***********************shows a list of apps cat>subcat>apps***********************
+# apps
+print("\nBrowse play store APP categories\n")
+browse = server.browse()
+prevappid=list()#to store ids of previous apps that lie under a category
+
+for c in browse.get("category"):
+    # print(c["unknownCategoryContainer"]["categoryIdContainer"]["categoryId"])
+    categ=c["unknownCategoryContainer"]["categoryIdContainer"]["categoryId"]#get the name of category
+    subcateg=server.list(categ)#get the names of all subcategories of related category
+    # print(subcateg)
+    
+    for i in subcateg:#get the list of all apps of a subcategory
+        app=server.list(categ,i)
+        for j in app:
+            # print(categ," ",i," ",j['docid'])
+            if j['docid'] not in prevappid:
+                # print('not present')   
+                insert1 = "INSERT INTO main(aid,cat,subcat) VALUES(%s, %s, %s)"
+                val=(j['docid'],categ,i)
+                cursor.execute(insert1,val)
+                prevappid.append(j['docid'])
+    print(prevappid)
+            
+# #games
+# print("\nBrowse play store GAMES categories\n")
+# browse=server.browse(cat="GAME")
+# for c in browse.get("category"):
+#     # print(c["unknownCategoryContainer"]["categoryIdContainer"]["categoryId"])
+#     categ=c["unknownCategoryContainer"]["categoryIdContainer"]["categoryId"]#get the name of category
+#     subcateg=server.list(categ)#get the names of all subcategories of related category
+#     # print(subcateg)
+    
+#     for i in subcateg:#get the list of all apps of a subcategory
+#         app=server.list(categ,i)
+#         prevappid=None
+#         for j in app:
+#             # print(j['docid']," ",categ," ",i)
+#             if j['docid']!=prevappid:
+#                 insert1 = "INSERT INTO main(aid,cat,subcat) VALUES(%s, %s, %s)"
+#                 val=(j['docid'],categ,i)
+#                 cursor.execute(insert1,val)
+#             prevappid=j['docid']
+            
+connection.commit()
+connection.close()
+
+# print(server.list("TRAVEL_AND_LOCAL", ctr="apps_topselling_free"))
+
+#to get the game categories
+#print(server.browse(cat="GAME"))
 
 # LIST
-cat = "MUSIC_AND_AUDIO"
-print("\nList {} subcategories\n".format(cat))
-catList = server.list(cat)
+# cat = "MUSIC_AND_AUDIO"
+# print("\nList {} subcategories\n".format(cat))
+# server.alllist(cat)
+
+
 for c in catList:
     print(c)
 
-'''
 limit = 4
 print("\nList only {} apps from subcat {} for {} category\n".format(
     limit, catList[0], cat))
