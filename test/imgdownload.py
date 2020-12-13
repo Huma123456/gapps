@@ -10,7 +10,8 @@ for i in range(len(link)):
     #converts the number of image into words 
     inttoword=num2words(i)
     #adds the extension
-    exten='/mnt/c/xampp/htdocs/appimages/' + inttoword +'.png'
+    # exten='/mnt/c/xampp/htdocs/appimages/' + inttoword +'.png'
+    exten='C:/xampp/htdocs/appimages/' + inttoword + '.png'
     #downloads it using the two things names and links for each image
     urllib.request.urlretrieve(link[i],exten)
     #store in another db column taking the link from localhost

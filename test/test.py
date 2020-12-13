@@ -7,8 +7,8 @@ import urllib.request
 from num2words import num2words
 
 #database connection
-connection = pymysql.connect(host="localhost",user="root",passwd="",database="gapps" )
-cursor = connection.cursor()
+# connection = pymysql.connect(host="localhost",user="root",passwd="",database="gapps" )
+# cursor = connection.cursor()
 # gsfId = int(os.environ["GPAPI_GSFID"])
 # authSubToken = os.environ["GPAPI_TOKEN"]
 
@@ -85,7 +85,7 @@ if bulk[1] is not None:
 
 print("\nResult from bulkDetails for {}\n".format(testApps[0]))
 print(bulk[0]["docid"])
-'''
+
 testApps = ["org.mozilla.rocket", "com.non.existing.app"]
 
 # DETAILS
@@ -130,7 +130,7 @@ for x in details['image']:
     imgcnvt.append(exten)
 print(img, imgcnvt)
 
-'''
+
 #make separate table for rating
 print("Aggregate rating")
 for y in details['aggregateRating'].values():

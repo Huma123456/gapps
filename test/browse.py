@@ -35,9 +35,9 @@ for c in browse.get("category"):
             
             #not present before in db then add
             if j['docid'] not in prevappid:   
-                # insert1 = "INSERT INTO main(aid,cat,subcat) VALUES(%s, %s, %s)"
-                # val=(j['docid'],categ,i)
-                # cursor.execute(insert1,val)
+                insert1 = "INSERT INTO main(aid,cat,subcat) VALUES(%s, %s, %s)"
+                val=(j['docid'],categ,i)
+                cursor.execute(insert1,val)
                 prevappid.append(j['docid'])
             
             
@@ -61,7 +61,9 @@ for c in browse.get("category"):
                     # Directory 
                     directory = j['docid']
                     # Parent Directory path 
-                    parent_dir = '/mnt/c/xampp/htdocs/appimages/'
+                    # parent_dir = '/mnt/c/xampp/htdocs/appimages/'
+                    parent_dir='C:/xampp/htdocs/appimages/'
+
                     # Path 
                     path = os.path.join(parent_dir, directory) 
                     # Create the directory if not exists
@@ -70,14 +72,18 @@ for c in browse.get("category"):
                     #adds the extension
                     exten = path + "/" + inttoword + '.png'
                     #downloads it using the two things names and links for each image
-                    urllib.request.urlretrieve(x['imageUrl'],exten)
+                    try:
+                        urllib.request.urlretrieve(x['imageUrl'],exten)
+                    except Exception as e:
+                        print("exception:: ",e)    
                     cnt=cnt+1
                     img.append(x['imageUrl'])
                     imgcnvt.append(exten)
                 # print(img, imgcnvt)
 
+
                 insert1 = "INSERT INTO app_details(aid,backendDocid,title,creator,description,img_url,imgurl_convert,devName,version,install_size,dev_email,dev_web,num_downloads,pkg_name,htmlchng,upload_date,desc_short,comment_count) VALUES(%s, %s, %s,%s, %s, %s,%s, %s, %s,%s, %s, %s,%s, %s, %s,%s,%s, %s)"
-                val=("SELECT main.aid FROM gapps.main WHERE aid = j.get('docid')",j.get('backendDocid'),j.get('title'),j.get('creator'),
+                val=(j.get('docid'),j.get('backendDocid'),j.get('title'),j.get('creator'),
                 j.get('descriptionHtml'),img,imgcnvt,
                 j.get('details').get("appDetails").get("developerName"),j.get('details').get("appDetails").get("versionString"),
                 j.get('details').get("appDetails").get("installationSize"),j.get('details').get("appDetails").get("developerEmail"),
@@ -86,11 +92,12 @@ for c in browse.get("category"):
                 j.get('details').get("appDetails").get("uploadDate"),j.get('descriptionShort'),j.get('aggregateRating').get('commentCount'))
 
                 insert1 = "INSERT INTO rating(aid,rate_type,star_rate,rate_cnt,one_star,two_star,three_star,four_star,five_star) VALUES(%s,%s, %s, %s,%s, %s, %s,%s, %s)"
-                val=("SELECT main.aid FROM gapps.main WHERE aid = j.get('docid')",j.get('aggregateRating').get('type'),
+                val=(j.get('docid'),j.get('aggregateRating').get('type'),
                 j.get('aggregateRating').get('type'),j.get('aggregateRating').get('starRating'),
                 j.get('aggregateRating').get('ratingsCount'),j.get('aggregateRating').get('oneStarRatings'),
                 j.get('aggregateRating').get('twoStarRatings'),j.get('aggregateRating').get('threeStarRatings'),
                 j.get('aggregateRating').get('fourStarRatings'),j.get('aggregateRating').get('fiveStarRatings'))
+'''
 #games
 print("\nBrowse play store GAMES categories\n")
 browse=server.browse(cat="GAME")
@@ -112,6 +119,6 @@ for c in browse.get("category"):
                 cursor.execute(insert1,val)
                 prevappid=j['docid']
             
-
+'''
 connection.commit()
 connection.close()
